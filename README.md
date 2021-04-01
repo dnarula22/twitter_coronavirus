@@ -170,6 +170,14 @@ Complete the following tasks:
     This explanation should be suitable for a future employer to look at while they are interviewing you to get a rough idea of what you accomplished.
     (And you should tell them about this in your interviews!)
 
+EXPLANATION OF RESULTS:
+- Edited map.py function such that I could count hashtags by country as well
+- Ran the code to get an outputs directory which contained 2 files for each day of the year.
+- One file counted hashtags countrywise, the other language wise.
+- Used reduce.py to reduce all lang files and country files into respective single files
+- Used visualize.py to count total number of occurrences for each hashtag in the list
+- Was interesting to see that hashtags that included 'covid' or 'corona' were much more common than ones such as 'virus' or 'flu'      
+
 ## Submission
 
 Upload a link to you github repository on sakai.
